@@ -1,6 +1,8 @@
 for i in range(1,101):
-    print(i)
+    print(f"aff {i}")
 print("*" * 50)
+
+
 
 i = 0
 while(i!=100):
